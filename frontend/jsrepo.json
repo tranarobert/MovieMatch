@@ -1,0 +1,13 @@
+{
+	"$schema": "https://unpkg.com/jsrepo@2.2.2/schemas/project-config.json",
+	"repos": [
+		"https://reactbits.dev/default",
+		"github/ieedan/std"
+	],
+	"includeTests": false,
+	"watermark": true,
+	"configFiles": {},
+	"paths": {
+		"*": "./src/blocks"
+	}
+}
